@@ -11,7 +11,7 @@
   ###### ✅ (Completed)   ██████████ 100% 
 * Building a Virtualized Enterprise Network In Proxmox (VLANs, Routing, DHCP, DNS)
   ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
-* pfSense Advanced Networking / Firewall Lab (Firewall Rules, NAT, VPN, VLAN Segmentation)
+* pfSense Advanced Networking Lab (Firewall Rules, NAT, VPN, VLAN Segmentation)
   ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 
 ## 🖥️ Security Projects: 
@@ -45,7 +45,7 @@
 ## 🖥️ Miscellaneous Projects:
 
 * DeZerraDigital.com | Digital and Automation Services
-  * 
+  * [dezerradigital.com](dezerradigital.com)
   * [README](url)
   ###### ✅ (Completed)   ██████████ 100% 
 * Home Lab Architecture Diagram (Proxmox + pfSense + Containers + VLANs)
@@ -54,7 +54,7 @@
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 
 ----------------------------------------------------------------------
-## 🖥️ Revelant Certifications:
+## 🖥️ Relevelant Certifications:
 
 * AWS Cloud Practitioner
 ###### (Started) ███████▒▒▒ 70%
