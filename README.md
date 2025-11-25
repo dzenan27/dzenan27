@@ -4,7 +4,7 @@
 #### 🔭 I’m focused on certifications, projects, and my bachelor's in Cybersecurity & IST.
 #### 💬 Ask me about anything below and I'll be happy to help!!
 ----------------------------------------------------------------------
-## Networking Projects: 
+## 🖥️ Networking Projects: 
 
 * Project One
 ###### (Not Started)  ▒▒▒▒▒▒▒▒▒▒ 0%
@@ -13,7 +13,7 @@
 * Project Three
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 
-## Security Projects: 
+## 🖥️ Security Projects: 
 
 * Project One
 ###### (Not Started)  ▒▒▒▒▒▒▒▒▒▒ 0%
@@ -22,7 +22,7 @@
 * Project Three
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 
-## Computer Language Projects:
+## 🖥️ Computer Language Projects:
 
 * Project One
 ###### (Not Started)  ▒▒▒▒▒▒▒▒▒▒ 0%
@@ -31,7 +31,7 @@
 * Project Three
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 
-## Cloud Projects:
+## 🖥️ Cloud Projects:
 
 * Project One
 ###### (Not Started)  ▒▒▒▒▒▒▒▒▒▒ 0%
@@ -41,7 +41,7 @@
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 
 ----------------------------------------------------------------------
-## Revelant Certifications:
+## 🖥️ Revelant Certifications:
 
 * AWS Cloud Practitioner
 ###### (Started) ███████▒▒▒ 70%
