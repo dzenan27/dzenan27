@@ -2,42 +2,55 @@
 ----------------------------------------------------------------------
 #### 🌱 I’m currently learning about networking concepts, security fundamentals, and cloud computing.
 #### 🔭 I’m focused on certifications, projects, and my bachelor's in Cybersecurity & IST.
-#### 💬 Ask me about anything below and I'll be happy to help!!
+#### 💬 Ask me about anything below and I'll be happy to help!! 
 ----------------------------------------------------------------------
 ## 🖥️ Networking Projects: 
 
-* Project One
-###### (Not Started)  ▒▒▒▒▒▒▒▒▒▒ 0%
-* Project Two
-###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
-* Project Three
-###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
+* Network Scanning & TCP/IP Vulnerability Scanning
+  * [Lab Breakdown](url)
+  ###### ✅ (Completed)   ██████████ 100% 
+* Building a Virtualized Enterprise Network In Proxmox (VLANs, Routing, DHCP, DNS)
+  ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
+* pfSense Advanced Networking / Firewall Lab (Firewall Rules, NAT, VPN, VLAN Segmentation)
+  ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 
 ## 🖥️ Security Projects: 
 
-* Project One
-###### (Not Started)  ▒▒▒▒▒▒▒▒▒▒ 0%
-* Project Two
-###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
-* Project Three
-###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
+* Firewalls: Attack vs Defense (pfSense vs Kali)
+  * [Lab Breakdown](url)
+  ###### ✅ (Completed)   ██████████ 100% 
+* SIEM Setup with Splunk (Log Collection + Alerting Rules)
+  ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
+* Active Directory Hardening Lab (Group Policy, User/Password Policies, Privilege Restrictions)
+  ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 
 ## 🖥️ Computer Language Projects:
 
-* Project One
+* Python Password Manager (Logging Users and Accounts)
 ###### (Not Started)  ▒▒▒▒▒▒▒▒▒▒ 0%
-* Project Two
+* Python Log Analyzer (Regex → Detect Suspicious Patterns in System Logs)
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
-* Project Three
+* Python SSH Brute-Force Detection Script (Parse Logs for Suspicious Logins)
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 
 ## 🖥️ Cloud Projects:
 
-* Project One
+* Deploy a Secure EC2 Web Server (SSH Hardening + Firewall Rules + Monitoring)
 ###### (Not Started)  ▒▒▒▒▒▒▒▒▒▒ 0%
-* Project Two
+* S3 Static Website Hosting + CloudFront CDN + Route53 Domain Configuration
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
-* Project Three
+* AWS IAM Security Lab (Roles, Policies, MFA Enforcement, Least Privilege Demo)
+###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
+
+## 🖥️ Miscellaneous Projects:
+
+* DeZerraDigital.com | Digital and Automation Services
+  * 
+  * [README](url)
+  ###### ✅ (Completed)   ██████████ 100% 
+* Home Lab Architecture Diagram (Proxmox + pfSense + Containers + VLANs)
+###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
+* Home Lab Monitoring Dashboard
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 
 ----------------------------------------------------------------------
@@ -53,19 +66,3 @@
 ----------------------------------------------------------------------
 # Thank you for visiting my page! Feel free to connect on my LinkedIn!
 
-
-
-<!--
-**dzenan27/dzenan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
