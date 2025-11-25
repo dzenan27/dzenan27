@@ -45,7 +45,7 @@
 ## 🖥️ Miscellaneous Projects:
 
 * DeZerraDigital.com | Digital and Automation Services
-  * [README](https://github.com/dzenan27/DeZerraDigital---Digital-and-Automation-Services.git)
+  * [Readme](https://github.com/dzenan27/DeZerraDigital---Digital-and-Automation-Services.git)
   ###### ✅ (Completed)   ██████████ 100% 
 * Home Lab Architecture Diagram (Proxmox + pfSense + Containers + VLANs)
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
@@ -59,7 +59,7 @@
 ###### (Started) ███████▒▒▒ 70%
 * CompTIA Network+
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
-* Comptia Security+
+* CompTIA Security+
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 
 ----------------------------------------------------------------------
