@@ -46,7 +46,7 @@
 
 * DeZerraDigital.com | Digital and Automation Services
   * [dezerradigital.com](dezerradigital.com)
-  * [README](url)
+  * [README](https://github.com/dzenan27/DeZerraDigital---Digital-and-Automation-Services.git)
   ###### ✅ (Completed)   ██████████ 100% 
 * Home Lab Architecture Diagram (Proxmox + pfSense + Containers + VLANs)
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
