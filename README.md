@@ -51,7 +51,7 @@
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 
 ----------------------------------------------------------------------
-Thank you for visiting my page! Feel free to connect on my LinkedIn!
+# Thank you for visiting my page! Feel free to connect on my LinkedIn!
 
 
 
