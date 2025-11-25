@@ -45,7 +45,6 @@
 ## 🖥️ Miscellaneous Projects:
 
 * DeZerraDigital.com | Digital and Automation Services
-  * [dezerradigital.com](dezerradigital.com)
   * [README](https://github.com/dzenan27/DeZerraDigital---Digital-and-Automation-Services.git)
   ###### ✅ (Completed)   ██████████ 100% 
 * Home Lab Architecture Diagram (Proxmox + pfSense + Containers + VLANs)
