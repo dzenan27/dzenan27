@@ -1,6 +1,6 @@
 # Hi, I'm Dzenan, a [CyberSecurity Student @ UMSL](www.linkedin.com/dzenanm).
 ----------------------------------------------------------------------
-#### 🌱 I’m currently learning about networking concepts, security fundamentals, and cloud computing. 
+#### 🌱 I’m currently learning about networking concepts, security fundamentals, and cloud computing with hands on projects.
 #### 🔭 I’m focused on certifications, projects, and my bachelor's in Cybersecurity & IST.
 #### 💬 Ask me about anything below and I'll be happy to help!!
 ----------------------------------------------------------------------
