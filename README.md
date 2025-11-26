@@ -16,11 +16,11 @@
 
 ## 🖥️ Security Projects: 
 
+* Honeypot and Intrusion Logging (Log Collection + GeoMap)
+  ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 * Firewalls: Attack vs Defense (pfSense vs Kali)
   * [Lab Breakdown](url)
   ###### ✅ (Completed)   ██████████ 100% 
-* SIEM Setup with Splunk (Log Collection + Alerting Rules)
-  ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 * Active Directory Hardening Lab (Group Policy, User/Password Policies, Privilege Restrictions)
   ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 
