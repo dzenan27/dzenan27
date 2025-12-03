@@ -27,12 +27,14 @@
 ## 🖥️ Computer Language Projects:
 
 * Python Password Manager (Logging Users and Accounts)
-###### (Not Started)  ▒▒▒▒▒▒▒▒▒▒ 0%
+  * [Lab Breakdown](https://github.com/dzenan27/Python-Encrypted-Password-Manager.git)
+  ###### ✅ (Completed)  ██████████ 100% 
 * Python Log Analyzer (Regex → Detect Suspicious Patterns in System Logs)
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 * Python SSH Brute-Force Detection Script (Parse Logs for Suspicious Logins)
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
-
+* Java Employee Payroll System (Manager + Calculator)
+###### (Started) ████▒▒▒▒▒▒ 40%
 ## 🖥️ Cloud Projects:
 
 * Deploy a Secure EC2 Web Server (SSH Hardening + Firewall Rules + Monitoring)
@@ -43,9 +45,8 @@
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 
 ## 🖥️ Miscellaneous Projects:
-
 * DeZerraDigital.com | Digital and Automation Services
-  * [Readme](https://github.com/dzenan27/DeZerraDigital---Digital-and-Automation-Services.git)
+  * [Lab Breakdown](https://github.com/dzenan27/DeZerraDigital---Digital-and-Automation-Services.git)
   ###### ✅ (Completed)   ██████████ 100% 
 * Home Lab Architecture Diagram (Proxmox + pfSense + Containers + VLANs)
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
