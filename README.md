@@ -34,7 +34,8 @@
 * Python SSH Brute-Force Detection Script (Parse Logs for Suspicious Logins)
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 * Java Employee Payroll System (Manager + Calculator)
-###### (Started) ████▒▒▒▒▒▒ 40%
+  * [Lab Breakdown](https://github.com/dzenan27/Java-Employee-Payroll-System.git)
+  ###### ✅ (Completed)  ██████████ 100% 
 ## 🖥️ Cloud Projects:
 
 * Deploy a Secure EC2 Web Server (SSH Hardening + Firewall Rules + Monitoring)
