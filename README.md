@@ -59,6 +59,8 @@
 
 * AWS Cloud Practitioner
 ###### (Started) ███████▒▒▒ 70%
+* AWS Academy: Cloud Foundations 
+  ###### ✅(Completed) ██████████ 100%
 * CompTIA Network+
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 * CompTIA Security+
