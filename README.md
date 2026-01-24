@@ -61,6 +61,8 @@
 ###### (Started) ███████▒▒▒ 70%
 * AWS Academy: Cloud Foundations 
   ###### ✅(Completed) ██████████ 100%
+* CompTIA A+
+###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 * CompTIA Network+
 ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 * CompTIA Security+
