@@ -9,7 +9,7 @@
 * Network Scanning & TCP/IP Vulnerability Scanning
   * [Lab Breakdown](https://github.com/dzenan27/Network-Scanning-and-TCP-IP-Vulnerability-Scanning.git)
   ###### ✅ (Completed)   ██████████ 100% 
-* Building a Virtualized Enterprise Network In Proxmox (VLANs, Routing, DHCP, DNS)
+* Building a Virtualized Enterprise Network In Cisco (VLANs, Routing, DHCP, DNS)
   ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
 * pfSense Advanced Networking Lab (Firewall Rules, NAT, VPN, VLAN Segmentation)
   ###### (Not Started) ▒▒▒▒▒▒▒▒▒▒ 0%
