@@ -6,7 +6,7 @@
 
 <br/>
 
-![Status](https://img.shields.io/badge/Open_to-Internships_%26_Entry--Level_Roles-00b4d8?style=for-the-badge)
+![Status](https://img.shields.io/badge/Open_to_Entry_&_Mid--Level_Roles-00b4d8?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dzenanm-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/dzenanm)
 ![Graduating](https://img.shields.io/badge/B.S._Cybersecurity-Dec_2027-7b2cbf?style=for-the-badge)
 
