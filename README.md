@@ -65,7 +65,7 @@ I'm a cybersecurity student at the **University of Missouri – Saint Louis** wh
 
 | Project | What it shows | Tools |
 |---|---|---|
-| 🎣 **Phishing Detection Threat Analysis** | Cross-browser extension and Outlook add-in that scores risk using multiple threat-intel sources and SPF/DKIM/DMARC analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| 🎣 [**Phishing Detection Threat Analysis**](https://github.com/dzenan27/DeZerra-Shield---Phishing-Detection-System) | Cross-browser extension and Outlook add-in that scores risk using multiple threat-intel sources and SPF/DKIM/DMARC analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | 🔎 **[Network Scanning & TCP/IP Vulnerability Assessment](https://github.com/dzenan27/Network-Scanning-and-TCP-IP-Vulnerability-Scanning)** | Recon, scanning, and analysis of TCP/IP weaknesses | ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square) |
 | 🔥 **Firewalls: Attack vs Defense** | pfSense defending against Kali attacks, with rules tuned based on the results | ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square) |
 
@@ -88,7 +88,7 @@ I'm a cybersecurity student at the **University of Missouri – Saint Louis** wh
 | Project | Focus | Status |
 |---|---|---|
 | [**Network Scanning & TCP/IP Vulnerability Assessment**](https://github.com/dzenan27/Network-Scanning-and-TCP-IP-Vulnerability-Scanning) | Scanning and vulnerability analysis | ![Completed](https://img.shields.io/badge/Completed-2ea44f?style=flat-square) |
-| **Phishing Detection Threat Analysis** | Browser extension and Outlook add-in with weighted risk scoring | ![Completed](https://img.shields.io/badge/Completed-2ea44f?style=flat-square) |
+| [**Phishing Detection Threat Analysis**](https://github.com/dzenan27/DeZerra-Shield---Phishing-Detection-System) | Browser extension and Outlook add-in with weighted risk scoring | ![Completed](https://img.shields.io/badge/Completed-2ea44f?style=flat-square) |
 | **Firewalls: Attack vs Defense** | pfSense vs Kali | ![Completed](https://img.shields.io/badge/Completed-2ea44f?style=flat-square) |
 | **Enterprise-Scale Wazuh SIEM Homelab** | 1k users, Tailscale, Wazuh, and firewalls | ![In Progress](https://img.shields.io/badge/In_Progress-f0ad4e?style=flat-square) |
 | **Active Directory Hardening Lab** | Group Policy, user and password policies, privilege restrictions | ![In Progress](https://img.shields.io/badge/In_Progress-f0ad4e?style=flat-square) |
@@ -162,6 +162,7 @@ I'm a cybersecurity student at the **University of Missouri – Saint Louis** wh
 | **AWS Certified Solutions Architect – Associate** | ![Planned](https://img.shields.io/badge/Planned-8b949e?style=flat-square) |
 | **AWS Certified Cloud Practitioner** | ![Planned](https://img.shields.io/badge/Planned-8b949e?style=flat-square) |
 | **Microsoft AZ-900** | ![Planned](https://img.shields.io/badge/Planned-8b949e?style=flat-square) |
+| **CompTIA CySA+** | ![Planned](https://img.shields.io/badge/Planned-8b949e?style=flat-square) |
 
 </details>
 
