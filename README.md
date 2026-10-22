@@ -65,9 +65,9 @@ I'm a cybersecurity student at the **University of Missouri – Saint Louis** wh
 
 | Project | What it shows | Tools |
 |---|---|---|
+| 🔐 [**Python Encrypted Password Manager**](https://github.com/dzenan27/Python-Encrypted-Password-Manager) | Encrypted local storage for account credentials | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🎣 [**Phishing Detection Threat Analysis**](https://github.com/dzenan27/DeZerra-Shield---Phishing-Detection-System) | Cross-browser extension and Outlook add-in that scores risk using multiple threat-intel sources and SPF/DKIM/DMARC analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| 🔎 **[Network Scanning & TCP/IP Vulnerability Assessment](https://github.com/dzenan27/Network-Scanning-and-TCP-IP-Vulnerability-Scanning)** | Recon, scanning, and analysis of TCP/IP weaknesses | ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square) |
-| 🔥 **Firewalls: Attack vs Defense** | pfSense defending against Kali attacks, with rules tuned based on the results | ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square) |
+| 🚀 [**DeZerraDigital**](https://github.com/dzenan27/DeZerraDigital---Digital-and-Automation-Services) | Web development and AI automation services for small businesses, including an AI receptionist, live chat, scheduling, and review automation | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)  ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) |
 
 ---
 
@@ -190,5 +190,3 @@ Always happy to talk about IAM, cloud security, homelabbing, or study strategies
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
 
 </div>
-
-
