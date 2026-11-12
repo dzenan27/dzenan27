@@ -37,7 +37,7 @@ I'm a cybersecurity student at the **University of Missouri – Saint Louis** wh
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,aws,windows,linux,powershell,py,java,fastapi,git,github&perline=10" alt="Tech icons" />
+<img src="https://skillicons.dev/icons?i=azure,aws,windows,linux,powershell,py,java,js,fastapi,git,github&perline=11" alt="Tech icons" />
 
 </div>
 
@@ -51,8 +51,10 @@ I'm a cybersecurity student at the **University of Missouri – Saint Louis** wh
 | 🔐 **Identity & Access** | Microsoft Entra ID, Conditional Access, Active Directory, Group Policy, Intune, Okta (SSO/MFA) |
 | ☁️ **Cloud** | Microsoft Azure, AWS (IAM, EC2, S3, VPC fundamentals) |
 | 🛡️ **Security & Detection** | Wazuh SIEM, Microsoft Sentinel, Defender, pfSense, IDS/IPS, vulnerability assessment |
-| 🌐 **Networking** | TCP/IP, DNS, DHCP, VLANs, subnetting, Wireshark, Nmap |
-| 💻 **Scripting & Dev** | Python, PowerShell, Java, FastAPI, Git |
+| 🌐 **Networking** | TCP/IP, DNS, DHCP, VLANs, subnetting, Wireshark, Nmap, Tailscale |
+| 🖥️ **Homelab & Virtualization** | Proxmox VE, Windows Server, Linux VMs |
+| 💻 **Scripting & Dev** | Python, PowerShell, Java, JavaScript, FastAPI, Git |
+| 🤖 **Automation & AI** | n8n, Claude API, Ollama, Twilio, Retell AI, Whisper, Cal.com |
 
 </details>
 
@@ -65,9 +67,10 @@ I'm a cybersecurity student at the **University of Missouri – Saint Louis** wh
 
 | Project | What it shows | Tools |
 |---|---|---|
+| 🛡️ [**Enterprise-Scale Wazuh SIEM Homelab**](https://github.com/dzenan27/Enterprise-Scale-Wazuh-SIEM-Homelab) | Enterprise-style lab with Active Directory, firewalls, and remote access over Tailscale, all feeding Wazuh for centralized logging and detection | ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white) |
 | 🔐 [**Python Encrypted Password Manager**](https://github.com/dzenan27/Python-Encrypted-Password-Manager) | Encrypted local storage for account credentials | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🎣 [**Phishing Detection Threat Analysis**](https://github.com/dzenan27/DeZerra-Shield---Phishing-Detection-System) | Cross-browser extension and Outlook add-in that scores risk using multiple threat-intel sources and SPF/DKIM/DMARC analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| 🚀 [**DeZerraDigital**](https://github.com/dzenan27/DeZerraDigital---Digital-and-Automation-Services) | Web development and AI automation services for small businesses, including an AI receptionist, live chat, scheduling, and review automation | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)  ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) |
+| 🚀 [**DeZerraDigital**](https://github.com/dzenan27/DeZerraDigital---Digital-and-Automation-Services) | Web development and AI automation services for small businesses, including an AI receptionist, live chat, scheduling, and review automation | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) |
 
 ---
 
