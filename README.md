@@ -123,7 +123,7 @@ I'm a cybersecurity student at the **University of Missouri – Saint Louis** wh
 |---|---|---|
 | [**Python Encrypted Password Manager**](https://github.com/dzenan27/Python-Encrypted-Password-Manager) | Encrypted storage for accounts and credentials | ![Completed](https://img.shields.io/badge/Completed-2ea44f?style=flat-square) |
 | [**Java Employee Payroll System**](https://github.com/dzenan27/Java-Employee-Payroll-System) | Manager and pay calculator | ![Completed](https://img.shields.io/badge/Completed-2ea44f?style=flat-square) |
-| **Trading Reporter & News Agent** | Automated reporting and news system | ![Completed](https://img.shields.io/badge/Completed-2ea44f?style=flat-square) |
+| [**Trading Reporter & News Agent**](https://github.com/dzenan27/Trading-Reporter-News-Agent/blob/main/README.md) | Automated reporting and news system | ![Completed](https://img.shields.io/badge/Completed-2ea44f?style=flat-square) |
 
 </details>
 
