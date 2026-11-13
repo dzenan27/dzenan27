@@ -94,7 +94,6 @@ I'm a cybersecurity student at the **University of Missouri – Saint Louis** wh
 | **Firewalls: Attack vs Defense** | pfSense vs Kali | ![Completed](https://img.shields.io/badge/Completed-2ea44f?style=flat-square) |
 | [**Enterprise-Scale Wazuh SIEM Homelab**](https://github.com/dzenan27/Enterprise-Scale-Wazuh-SIEM-Homelab) | AD, Proxmox, Tailscale, Wazuh, Firewalls |![Completed](https://img.shields.io/badge/Completed-2ea44f?style=flat-square) |
 | **Active Directory Hardening Lab** | Group Policy, user and password policies, privilege restrictions | ![In Progress](https://img.shields.io/badge/In_Progress-f0ad4e?style=flat-square) |
-| **Network Anomaly Detection Lab** | Spotting unusual traffic patterns | ![Planned](https://img.shields.io/badge/Planned-8b949e?style=flat-square) |
 | **Honeypot & Intrusion Logging** | Log collection with an attacker GeoMap | ![In Progress](https://img.shields.io/badge/In_Progress-f0ad4e?style=flat-square) |
 
 </details>
@@ -112,7 +111,6 @@ I'm a cybersecurity student at the **University of Missouri – Saint Louis** wh
 | **AWS IAM Security Lab** | Roles, policies, MFA enforcement, and a least-privilege demo | ![Planned](https://img.shields.io/badge/Planned-8b949e?style=flat-square) |
 | **Okta IAM & SSO Implementation** | SSO and MFA setup with architecture documentation | ![Planned](https://img.shields.io/badge/Planned-8b949e?style=flat-square) |
 | **Sentinel Detection Engineering** | KQL analytic rules for password spray and impossible travel, plus an automated response playbook | ![Planned](https://img.shields.io/badge/Planned-8b949e?style=flat-square) |
-| **Secure EC2 Web Server** | SSH hardening, firewall rules, and monitoring | ![Planned](https://img.shields.io/badge/Planned-8b949e?style=flat-square) |
 
 </details>
 
